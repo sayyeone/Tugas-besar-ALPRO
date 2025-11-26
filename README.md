@@ -244,6 +244,5 @@ Dibuat sebagai tugas akhir Algoritma & Pemrograman.
 
 ---
 
-Made with ☕ by [Your Name](https://github.com/yourusername)
+Made with ❤️by [sayyeone](https://github.com/sayyeone)
 
-Ada bug? Open an issue atau DM aja!
